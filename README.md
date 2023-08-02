@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
-<h3 align="center">A passionate programmer currently studying Computer Science.</h3>
+<h3 align="center">A passionate programmer majoring in Computer Science.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
