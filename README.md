@@ -13,7 +13,7 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="chakra ui" width="40" height="40"/> </a>
 <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/chakra-ui.png" alt="chakra ui" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/idqNI71Hra.svg?c=1bx1741378674173id64Mup7acIDote-Oe&t=1714556221292" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="/assets/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/378837/node.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/YbOCE2o.png" alt="express" width="40" height="40"/> </a>
 <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://www.mickpatterson.com.au/assets/socket.io.png" alt="socketio" width="40" height="40"/> </a>
