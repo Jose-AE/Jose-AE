@@ -28,10 +28,8 @@
 
 <h3 align="left">Stats:</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-AE&theme=github_dark)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-AE&theme=github_dark#gh-dark-mode-only)](https://github.com/Jose-AE#gh-dark-mode-only)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-AE&theme=github#gh-light-mode-only)](https://github.com/Jose-AE#gh-light-mode-only)
 
 
-
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jose_AE\&layout=compact&&theme=transparent)
-
+![](https://github-readme-stats-joseaes-projects.vercel.app/api/wakatime?username=Jose_AE&layout=compact&theme=github_dark)
