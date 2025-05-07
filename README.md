@@ -19,7 +19,6 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><span><img src="/assets/nextjs-icon.svg" alt="nextjs" width="40" height="40"/></span></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><span><img src="https://www.svgrepo.com/show/378837/node.svg" alt="nodejs" width="40" height="40"/></span></a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><span><img src="https://i.imgur.com/YbOCE2o.png" alt="express" width="40" height="40"/></span></a>
-<a href="https://socket.io/" target="_blank" rel="noreferrer"><span><img src="https://www.mickpatterson.com.au/assets/socket.io.png" alt="socketio" width="40" height="40"/></span></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><span><img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/></span></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><span><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/></span></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><span><img src="https://i.imgur.com/3A2yN9n.png" alt="vscode" width="40" height="40"/></span></a>
