@@ -26,6 +26,8 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><span><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/></span></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><span><img src="https://cdn.cdnlogo.com/logos/c/68/c-sharp-800x800.png" alt="csharp" width="40" height="40"/></span></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><span><img src="https://www.svgrepo.com/show/452192/docker.svg" alt="docker" width="40" height="40"/></span></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><span><img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" alt="git" width="40" height="40"/></span></a>
+
 
 
 
