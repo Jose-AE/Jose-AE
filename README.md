@@ -15,7 +15,6 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><span><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></span></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><span><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="40" height="40"/></span></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><span><img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="40" height="40"/></span></a>
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><span><img src="https://img.icons8.com/color/512/chakra-ui.png" alt="chakra ui" width="40" height="40"/></span></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><span><img src="/assets/nextjs-icon.svg" alt="nextjs" width="40" height="40"/></span></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><span><img src="https://www.svgrepo.com/show/378837/node.svg" alt="nodejs" width="40" height="40"/></span></a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><span><img src="https://i.imgur.com/YbOCE2o.png" alt="express" width="40" height="40"/></span></a>
