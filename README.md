@@ -28,11 +28,10 @@
 
 <h3 align="left">Stats:</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-AE&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose-AE&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jose-AE&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jose-AE&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jose-AE&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-AE&theme=github_dark)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jose_AE\&layout=compact)
+
+
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jose_AE\&layout=compact&&theme=transparent)
 
