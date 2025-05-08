@@ -29,10 +29,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><span><img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" alt="git" width="40" height="40"/></span></a>
 
 
-- Punta digital: full stack developer intern
-- The pueblito co-founder
-
-
 <h3 align="left">Stats:</h3>
 
 
